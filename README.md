@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on schedule management apps
+I'm currently working on general automated systems as well as business apps on the side
 
 
 ## 🌐 Socials:
